@@ -1,0 +1,16 @@
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\bin\Debug\net9.0-windows\ClarkUniversityApp.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\bin\Debug\net9.0-windows\ClarkUniversityApp.deps.json
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\bin\Debug\net9.0-windows\ClarkUniversityApp.runtimeconfig.json
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\bin\Debug\net9.0-windows\ClarkUniversityApp.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\bin\Debug\net9.0-windows\ClarkUniversityApp.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.Form1.resources
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.csproj.GenerateResource.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.AssemblyInfoInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.AssemblyInfo.cs
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.csproj.CoreCompileInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\refint\ClarkUniversityApp.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ClarkUniversityApp.genruntimeconfig.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 1\ClarkUniversityApp\obj\Debug\net9.0-windows\ref\ClarkUniversityApp.dll

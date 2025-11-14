@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClarkUniversityApp.Employee">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.Faculty">
+    <Position X="11.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAQgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Faculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.GradStudent">
+    <Position X="18" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCQAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQgA=</HashCode>
+      <FileName>GradStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.LabManager">
+    <Position X="13.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LabManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.PartTimeFaculty">
+    <Position X="6.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartTimeFaculty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.PartTimeStudent">
+    <Position X="15.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAQAAAQAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartTimeStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.Person">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAMAAAACAAAAAAAAgAAAIIACACAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.PhDStudent">
+    <Position X="22.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACQAAAAAAAAAAEAIAAAAAAAAAAAAAAAIAAAABAAgA=</HashCode>
+      <FileName>PhDStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.Secretary">
+    <Position X="9" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Secretary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.Student">
+    <Position X="19" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAEAAAABAAAAAQAAAAAAAAAgAAAAIA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClarkUniversityApp.UnderGradStudent">
+    <Position X="20.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>UnderGradStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

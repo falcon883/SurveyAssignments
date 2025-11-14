@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|d:\\clarku\\survey of systems and programming languages\\assignment 3\\universityapp\\studapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|d:\\clarku\\survey of systems and programming languages\\assignment 3\\universityapp\\studapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\parttimestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:parttimestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\phdstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:phdstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\gradstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:gradstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\undergradstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:undergradstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851D3DED-016E-4915-981A-8E436A50B526}|StudApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-09-26T19:00:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:13:52.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhDStudent.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\PhDStudent.cs",
+              "RelativeDocumentMoniker": "PhDStudent.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\PhDStudent.cs",
+              "RelativeToolTip": "PhDStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T19:59:30.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartTimeStudent.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\PartTimeStudent.cs",
+              "RelativeDocumentMoniker": "PartTimeStudent.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\PartTimeStudent.cs",
+              "RelativeToolTip": "PartTimeStudent.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T19:56:51.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAowHUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:58:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAApwNsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:57:22.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GradStudent.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\GradStudent.cs",
+              "RelativeDocumentMoniker": "GradStudent.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\GradStudent.cs",
+              "RelativeToolTip": "GradStudent.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T23:46:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T23:24:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnderGradStudent.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\UnderGradStudent.cs",
+              "RelativeDocumentMoniker": "UnderGradStudent.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\UnderGradStudent.cs",
+              "RelativeToolTip": "UnderGradStudent.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:57:17.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Assignment 3\\UniversityApp\\StudApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:56:13.052Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\bin\Debug\StudApp.exe.config
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\bin\Debug\StudApp.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\bin\Debug\StudApp.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\obj\Debug\StudApp.csproj.AssemblyReference.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\obj\Debug\StudApp.Properties.Resources.resources
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\obj\Debug\StudApp.csproj.GenerateResource.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\obj\Debug\StudApp.csproj.CoreCompileInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\obj\Debug\StudApp.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\obj\Debug\StudApp.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\obj\Debug\StudApp.exe.config
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 3\UniversityApp\StudApp\obj\Debug\StudApp.Form1.resources

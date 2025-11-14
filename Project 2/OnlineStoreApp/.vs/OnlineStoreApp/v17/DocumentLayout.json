@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1746E5-CE8F-44D7-9181-AB2317D0A570}|OnlineStoreApp.csproj|D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED1746E5-CE8F-44D7-9181-AB2317D0A570}|OnlineStoreApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1746E5-CE8F-44D7-9181-AB2317D0A570}|OnlineStoreApp.csproj|d:\\clarku\\survey of systems and programming languages\\project 2\\onlinestoreapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1746E5-CE8F-44D7-9181-AB2317D0A570}|OnlineStoreApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1746E5-CE8F-44D7-9181-AB2317D0A570}|OnlineStoreApp.csproj|d:\\clarku\\survey of systems and programming languages\\project 2\\onlinestoreapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1746E5-CE8F-44D7-9181-AB2317D0A570}|OnlineStoreApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1746E5-CE8F-44D7-9181-AB2317D0A570}|OnlineStoreApp.csproj|d:\\clarku\\survey of systems and programming languages\\project 2\\onlinestoreapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1746E5-CE8F-44D7-9181-AB2317D0A570}|OnlineStoreApp.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:59:15.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:55:10.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:55:15.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ClarkU\\Survey of Systems and Programming Languages\\Project 2\\OnlineStoreApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:54:37.063Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

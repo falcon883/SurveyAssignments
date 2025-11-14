@@ -1,0 +1,32 @@
+C:\Users\durva\source\repos\Assignment2\bin\Debug\net9.0-windows\Assignment2.exe
+C:\Users\durva\source\repos\Assignment2\bin\Debug\net9.0-windows\Assignment2.deps.json
+C:\Users\durva\source\repos\Assignment2\bin\Debug\net9.0-windows\Assignment2.runtimeconfig.json
+C:\Users\durva\source\repos\Assignment2\bin\Debug\net9.0-windows\Assignment2.dll
+C:\Users\durva\source\repos\Assignment2\bin\Debug\net9.0-windows\Assignment2.pdb
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.Form1.resources
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.dll
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\refint\Assignment2.dll
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.pdb
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\Assignment2.genruntimeconfig.cache
+C:\Users\durva\source\repos\Assignment2\obj\Debug\net9.0-windows\ref\Assignment2.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\bin\Debug\net9.0-windows\Assignment2.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\bin\Debug\net9.0-windows\Assignment2.deps.json
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\bin\Debug\net9.0-windows\Assignment2.runtimeconfig.json
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\bin\Debug\net9.0-windows\Assignment2.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\bin\Debug\net9.0-windows\Assignment2.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.Form1.resources
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.csproj.GenerateResource.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.AssemblyInfoInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.AssemblyInfo.cs
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\refint\Assignment2.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\Assignment2.genruntimeconfig.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 2\Assignment2\obj\Debug\net9.0-windows\ref\Assignment2.dll

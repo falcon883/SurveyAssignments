@@ -1,0 +1,16 @@
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\bin\Debug\net9.0-windows\OnlineStoreApp.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\bin\Debug\net9.0-windows\OnlineStoreApp.deps.json
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\bin\Debug\net9.0-windows\OnlineStoreApp.runtimeconfig.json
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\bin\Debug\net9.0-windows\OnlineStoreApp.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\bin\Debug\net9.0-windows\OnlineStoreApp.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.Form1.resources
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.csproj.GenerateResource.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.AssemblyInfoInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.AssemblyInfo.cs
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.csproj.CoreCompileInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\refint\OnlineStoreApp.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\OnlineStoreApp.genruntimeconfig.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 2\OnlineStoreApp\obj\Debug\net9.0-windows\ref\OnlineStoreApp.dll

@@ -1,0 +1,16 @@
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\bin\Debug\net9.0-windows\ComplexNumber.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\bin\Debug\net9.0-windows\ComplexNumber.deps.json
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\bin\Debug\net9.0-windows\ComplexNumber.runtimeconfig.json
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\bin\Debug\net9.0-windows\ComplexNumber.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\bin\Debug\net9.0-windows\ComplexNumber.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.Form1.resources
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.csproj.GenerateResource.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.AssemblyInfoInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.AssemblyInfo.cs
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.csproj.CoreCompileInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\refint\ComplexNumber.dll
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ComplexNumber.genruntimeconfig.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 4\ComplexNumber\obj\Debug\net9.0-windows\ref\ComplexNumber.dll

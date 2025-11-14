@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudApp.Student">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQEAAAABAAABOAAAADAAQAAQAAgAAAIIAiACAAIg=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudApp.UnderGradStudent">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>UnderGradStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudApp.PhDStudent">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAEAIAAAAAQAAAAAAAAAIAAAABAAgA=</HashCode>
+      <FileName>PhDStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudApp.PartTimeStudent">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartTimeStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudApp.GradStudent">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAQgA=</HashCode>
+      <FileName>GradStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

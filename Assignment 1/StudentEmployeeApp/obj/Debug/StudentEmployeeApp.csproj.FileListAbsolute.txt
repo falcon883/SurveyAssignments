@@ -1,0 +1,22 @@
+C:\Users\durva\Downloads\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\durva\Downloads\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\durva\Downloads\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\durva\Downloads\StudentApp\obj\Debug\StudentEmployeeApp.csproj.AssemblyReference.cache
+C:\Users\durva\Downloads\StudentApp\obj\Debug\StudentApp.exe.config
+C:\Users\durva\Downloads\StudentApp\obj\Debug\StudentApp.Form1.resources
+C:\Users\durva\Downloads\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+C:\Users\durva\Downloads\StudentApp\obj\Debug\StudentEmployeeApp.csproj.GenerateResource.cache
+C:\Users\durva\Downloads\StudentApp\obj\Debug\StudentEmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\durva\Downloads\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\durva\Downloads\StudentApp\obj\Debug\StudentApp.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\bin\Debug\StudentApp.exe.config
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\bin\Debug\StudentApp.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\bin\Debug\StudentApp.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\obj\Debug\StudentEmployeeApp.csproj.AssemblyReference.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\obj\Debug\StudentApp.exe.config
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\obj\Debug\StudentApp.Form1.resources
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\obj\Debug\StudentApp.Properties.Resources.resources
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\obj\Debug\StudentEmployeeApp.csproj.GenerateResource.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\obj\Debug\StudentEmployeeApp.csproj.CoreCompileInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\obj\Debug\StudentApp.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Assignment 1\StudentEmployeeApp\obj\Debug\StudentApp.pdb
