@@ -1,0 +1,9 @@
+101,Smith,CPSC,88.00
+102,Johnson,CPEG,83.00
+103,Williams,ELEG,93.80
+104,Brown,MATH,89.50
+105,Jones,CPSC,79.60
+106,Garcia,CPEG,96.50
+107,Martinez,MATH,85.40
+108,Rodriguez,ELEG,91.50
+109,Deorukhkar,CPSC,90.00

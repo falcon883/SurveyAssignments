@@ -1,0 +1,8 @@
+101,John,Smith,85,90,CPSC,UG
+102,Sarah,Johnson,78,88,CPEG,GRAD
+103,Michael,Williams,92,95,ELEG,UG
+104,Emily,Brown,88,91,MATH,GRAD
+105,David,Jones,76,82,CPSC,UG
+106,Jessica,Garcia,95,98,CPEG,GRAD
+107,Daniel,Martinez,83,87,MATH,UG
+108,Ashley,Rodriguez,90,93,ELEG,GRAD

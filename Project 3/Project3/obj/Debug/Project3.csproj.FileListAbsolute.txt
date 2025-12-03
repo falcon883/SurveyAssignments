@@ -1,0 +1,19 @@
+C:\Users\perci\source\repos\Project3\obj\Debug\Project3.csproj.AssemblyReference.cache
+C:\Users\perci\source\repos\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Users\perci\source\repos\Project3\obj\Debug\Project3.csproj.GenerateResource.cache
+C:\Users\perci\source\repos\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\perci\source\repos\Project3\bin\Debug\Project3.exe.config
+C:\Users\perci\source\repos\Project3\bin\Debug\Project3.exe
+C:\Users\perci\source\repos\Project3\bin\Debug\Project3.pdb
+C:\Users\perci\source\repos\Project3\obj\Debug\Project3.exe
+C:\Users\perci\source\repos\Project3\obj\Debug\Project3.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\bin\Debug\Project3.exe.config
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\bin\Debug\Project3.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\bin\Debug\Project3.pdb
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\obj\Debug\Project3.csproj.AssemblyReference.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\obj\Debug\Project3.exe.config
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\obj\Debug\Project3.Properties.Resources.resources
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\obj\Debug\Project3.csproj.GenerateResource.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\obj\Debug\Project3.exe
+D:\ClarkU\Survey of Systems and Programming Languages\Project 3\Project3\obj\Debug\Project3.pdb
